@@ -23,7 +23,7 @@ translate_word1 = ''
 translate_word2 = ''
 MSG = "Повторим слова, {}?"
 
-TOKEN_API = '5815099989:AAEQ5vCjeKNhognqWdL51WUVhLrkW63m1HY'
+TOKEN_API = 'BOT_TOKEN'
 
 bot = Bot(TOKEN_API)
 storage = MemoryStorage()
